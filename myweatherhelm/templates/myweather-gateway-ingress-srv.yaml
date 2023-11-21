@@ -1,0 +1,20 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: myweather-gateway-ingress-srv
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/use-regex: 'true'
+spec:
+  rules:
+  - host: gatewaydemo.com
+    http:
+      paths:
+      - path: "/*"
+        pathType: Prefix        
+        backend:
+          service:
+            # name: myweather-gateway-clusterip-srv
+            name: {{ .Values.appName.restapi3.name }}
+            port: 
+              number: 80

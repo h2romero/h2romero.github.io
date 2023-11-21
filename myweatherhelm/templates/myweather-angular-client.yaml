@@ -1,0 +1,39 @@
+# Deploying container into a pod
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Values.appName.webclient1.name }}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: {{ .Values.appName.webclient1.name }}
+  template:
+    metadata:
+      labels:
+        app: {{ .Values.appName.webclient1.name }}
+    spec:
+      containers:
+      - name: {{ .Values.appName.webclient1.name }}
+        image: "{{ .Values.appName.webclient1.image.repo }}:{{ .Values.appName.webclient1.image.tag }}"
+        # image: myharbor.com:80/microsrv/myweatherangularclient
+        imagePullPolicy: Always
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ .Values.appName.webclient1.name }}
+spec:
+  type: ClusterIP
+  selector:
+    app: {{ .Values.appName.webclient1.name }}
+  ports:
+  - name: {{ .Values.appName.webclient1.name }}
+    protocol: TCP
+    port: 80
+    targetPort: 80
+  # - name: myweathergrpc
+  #   protocol: TCP
+  #   port: 666
+  #   targetPort: 666
+
