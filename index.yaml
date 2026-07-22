@@ -3,7 +3,7 @@ entries:
   myweatherhelm:
   - apiVersion: v2
     appVersion: 1.3.31
-    created: "2026-07-22T00:52:54.788589576Z"
+    created: "2026-07-22T00:55:25.005006494Z"
     description: A Helm chart for Kubernetes
     digest: 8a18ab49beab2187729a70bc2fb27157e7d517e9da44c85f2cdff27384073147
     name: myweatherhelm
@@ -13,7 +13,7 @@ entries:
     version: 1.3.48
   - apiVersion: v2
     appVersion: 1.3.26
-    created: "2026-07-22T00:52:54.788457946Z"
+    created: "2026-07-22T00:55:25.004582562Z"
     description: A Helm chart for Kubernetes
     digest: 4047d2009e72c80763468053e394d0630a78986427e6a42dc99739135ab87ee4
     name: myweatherhelm
@@ -23,7 +23,7 @@ entries:
     version: 1.3.47
   - apiVersion: v2
     appVersion: 1.3.30
-    created: "2026-07-22T00:52:54.788326982Z"
+    created: "2026-07-22T00:55:25.004438431Z"
     description: A Helm chart for Kubernetes
     digest: fb20664ce5bf5a883c90697b00dcdbb00908e0eb3ca8f282e557cac99aa545bd
     name: myweatherhelm
@@ -33,7 +33,7 @@ entries:
     version: 1.3.46
   - apiVersion: v2
     appVersion: 1.3.25
-    created: "2026-07-22T00:52:54.788178268Z"
+    created: "2026-07-22T00:55:25.004287008Z"
     description: A Helm chart for Kubernetes
     digest: c015b75d4a303c14f5165dfa4422091cb3832e6ef60f2b2d064a4c4cf7d95c5d
     name: myweatherhelm
@@ -43,7 +43,7 @@ entries:
     version: 1.3.45
   - apiVersion: v2
     appVersion: 1.3.29
-    created: "2026-07-22T00:52:54.788034345Z"
+    created: "2026-07-22T00:55:25.004124961Z"
     description: A Helm chart for Kubernetes
     digest: cfa41a3d221b136a5c8d856b4325fcc3c8862af35b0f941b1aa0dacf7cf2a1dd
     name: myweatherhelm
@@ -53,7 +53,7 @@ entries:
     version: 1.3.44
   - apiVersion: v2
     appVersion: 1.3.24
-    created: "2026-07-22T00:52:54.787863671Z"
+    created: "2026-07-22T00:55:25.003975997Z"
     description: A Helm chart for Kubernetes
     digest: dfb20de005799885f5db5be76088182d0e4293ffc6f3cbd270628da7170b7dc8
     name: myweatherhelm
@@ -63,7 +63,7 @@ entries:
     version: 1.3.43
   - apiVersion: v2
     appVersion: 1.3.28
-    created: "2026-07-22T00:52:54.787547117Z"
+    created: "2026-07-22T00:55:25.003796406Z"
     description: A Helm chart for Kubernetes
     digest: 633f8c05802274166a08a15c33b5135d5c5e5ddd8b0775d20cc794d1230c9426
     name: myweatherhelm
@@ -73,7 +73,7 @@ entries:
     version: 1.3.42
   - apiVersion: v2
     appVersion: 1.3.27
-    created: "2026-07-22T00:52:54.787221395Z"
+    created: "2026-07-22T00:55:25.003614483Z"
     description: A Helm chart for Kubernetes
     digest: 74a55b97d1835a078dc438674c17698b059303758cef620e304941fe4f07a040
     name: myweatherhelm
@@ -83,7 +83,7 @@ entries:
     version: 1.3.41
   - apiVersion: v2
     appVersion: 1.3.23
-    created: "2026-07-22T00:52:54.787015512Z"
+    created: "2026-07-22T00:55:25.003413017Z"
     description: A Helm chart for Kubernetes
     digest: 91f238fc86657952be7285a0f246e4c35110d9ae2221a0bc3b23e110689e6587
     name: myweatherhelm
@@ -93,7 +93,7 @@ entries:
     version: 1.3.40
   - apiVersion: v2
     appVersion: 1.3.26
-    created: "2026-07-22T00:52:54.78688209Z"
+    created: "2026-07-22T00:55:25.003249635Z"
     description: A Helm chart for Kubernetes
     digest: b8416e2220da48398d836ee829df6b0992b7eac584255c5bd93fb53f3bacf7e1
     name: myweatherhelm
@@ -103,7 +103,7 @@ entries:
     version: 1.3.39
   - apiVersion: v2
     appVersion: 1.3.26
-    created: "2026-07-22T00:52:54.786716458Z"
+    created: "2026-07-22T00:55:25.003056336Z"
     description: A Helm chart for Kubernetes
     digest: c53474a3398bb688c8f450c4d053ab1dcd7e8a9199a18f6a8c5d6e64323d94d5
     name: myweatherhelm
@@ -113,7 +113,7 @@ entries:
     version: 1.3.38
   - apiVersion: v2
     appVersion: 1.3.25
-    created: "2026-07-22T00:52:54.786577744Z"
+    created: "2026-07-22T00:55:25.00289133Z"
     description: A Helm chart for Kubernetes
     digest: d967214256fca08a3a63084f15b9efb6abf72f6abd0336f423a7f4e4391fdc70
     name: myweatherhelm
@@ -123,7 +123,7 @@ entries:
     version: 1.3.37
   - apiVersion: v2
     appVersion: 1.3.24
-    created: "2026-07-22T00:52:54.78643953Z"
+    created: "2026-07-22T00:55:25.002720198Z"
     description: A Helm chart for Kubernetes
     digest: a9ebb61cc3631d41e86b6c7839a58ccbb5e3e68c51fb83a22967202eb22fec86
     name: myweatherhelm
@@ -133,7 +133,7 @@ entries:
     version: 1.3.36
   - apiVersion: v2
     appVersion: 1.3.23
-    created: "2026-07-22T00:52:54.786278648Z"
+    created: "2026-07-22T00:55:25.00250269Z"
     description: A Helm chart for Kubernetes
     digest: 971959a4bf1f618fe65af51139fecd08fbafa89c2cfee35272d82553d41ccba0
     name: myweatherhelm
@@ -143,7 +143,7 @@ entries:
     version: 1.3.35
   - apiVersion: v2
     appVersion: 1.3.22
-    created: "2026-07-22T00:52:54.786142059Z"
+    created: "2026-07-22T00:55:25.002281056Z"
     description: A Helm chart for Kubernetes
     digest: c8292af7663d89d095715403e34c1025275dc7f25d9162d874453903d3feffee
     name: myweatherhelm
@@ -153,7 +153,7 @@ entries:
     version: 1.3.34
   - apiVersion: v2
     appVersion: 1.3.21
-    created: "2026-07-22T00:52:54.785993886Z"
+    created: "2026-07-22T00:55:25.002089132Z"
     description: A Helm chart for Kubernetes
     digest: 2d93b05c09dd29700a7638245a87045d9f4aa26a8cac46e87c5311d482a1398a
     name: myweatherhelm
@@ -163,7 +163,7 @@ entries:
     version: 1.3.33
   - apiVersion: v2
     appVersion: 1.3.20
-    created: "2026-07-22T00:52:54.785851589Z"
+    created: "2026-07-22T00:55:25.001806538Z"
     description: A Helm chart for Kubernetes
     digest: 6aa1a2025fcfc125a08a2ea2b4ffec34d9837034ebfd7737627f9eba899e9fcb
     name: myweatherhelm
@@ -173,7 +173,7 @@ entries:
     version: 1.3.32
   - apiVersion: v2
     appVersion: 1.3.19
-    created: "2026-07-22T00:52:54.78567679Z"
+    created: "2026-07-22T00:55:25.001408898Z"
     description: A Helm chart for Kubernetes
     digest: bfd901abb7c2ffdb13c05f5e605befaad5846511136476f447835ac835d4bbdc
     name: myweatherhelm
@@ -183,7 +183,7 @@ entries:
     version: 1.3.31
   - apiVersion: v2
     appVersion: 1.3.18
-    created: "2026-07-22T00:52:54.785501991Z"
+    created: "2026-07-22T00:55:25.000868669Z"
     description: A Helm chart for Kubernetes
     digest: bc0d26dce155f157a2770b081745498f393cc922276ea0e6ad78572c72183760
     name: myweatherhelm
@@ -193,7 +193,7 @@ entries:
     version: 1.3.30
   - apiVersion: v2
     appVersion: 1.3.17
-    created: "2026-07-22T00:52:54.785316984Z"
+    created: "2026-07-22T00:55:25.000612242Z"
     description: A Helm chart for Kubernetes
     digest: a068b9a138d65f4309732a644880b72a29fb1ccda3ecfd4388bf6ea411172dd4
     name: myweatherhelm
@@ -203,7 +203,7 @@ entries:
     version: 1.3.29
   - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-22T00:52:54.78518002Z"
+    created: "2026-07-22T00:55:25.000420235Z"
     description: A Helm chart for Kubernetes
     digest: 535736a4fe53f40ebe71018fa906d1ea57294edc3de1cc14e47732105e2df418
     name: myweatherhelm
@@ -213,7 +213,7 @@ entries:
     version: 1.3.28
   - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-22T00:52:54.785034514Z"
+    created: "2026-07-22T00:55:25.000240978Z"
     description: A Helm chart for Kubernetes
     digest: f424faf80d25cc9cf83990a901401eee08ba6005897c858d24e7033f7bec40f1
     name: myweatherhelm
@@ -223,7 +223,7 @@ entries:
     version: 1.3.27
   - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-22T00:52:54.784861757Z"
+    created: "2026-07-22T00:55:25.000049846Z"
     description: A Helm chart for Kubernetes
     digest: f0ad89048a78a8110a210aaf6cdeb7b6d484fd23c0eadde32bb474395c03807c
     name: myweatherhelm
@@ -233,7 +233,7 @@ entries:
     version: 1.3.26
   - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-22T00:52:54.784392112Z"
+    created: "2026-07-22T00:55:24.99986713Z"
     description: A Helm chart for Kubernetes
     digest: 2b0fcefb8d6cac58e67be406c47b3daa199047b821518ccc7be7afc0cd4cf9d2
     name: myweatherhelm
@@ -243,7 +243,7 @@ entries:
     version: 1.3.25
   - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-22T00:52:54.784167686Z"
+    created: "2026-07-22T00:55:24.999691999Z"
     description: A Helm chart for Kubernetes
     digest: 371d1223cd48bcd9649c5d9bb8a71b59bf704414ff3f40562772ffd23f22ff28
     name: myweatherhelm
@@ -253,7 +253,7 @@ entries:
     version: 1.3.24
   - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-22T00:52:54.783879925Z"
+    created: "2026-07-22T00:55:24.999533826Z"
     description: A Helm chart for Kubernetes
     digest: ac1ac8542ebf2829f7480a3be5c161ddb964f91f7c116f4406dde6fabe6541ea
     name: myweatherhelm
@@ -263,7 +263,7 @@ entries:
     version: 1.3.23
   - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-22T00:52:54.783695709Z"
+    created: "2026-07-22T00:55:24.99937932Z"
     description: A Helm chart for Kubernetes
     digest: 0aa12e8aac9afae0416f005aecc844d64587a33deb9c89c8917633e25735eff0
     name: myweatherhelm
@@ -273,7 +273,7 @@ entries:
     version: 1.3.22
   - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-22T00:52:54.783551453Z"
+    created: "2026-07-22T00:55:24.999211897Z"
     description: A Helm chart for Kubernetes
     digest: b82ab4aab1c3c1f83dace5d12ee4d12ebfe4df93a48ec490642c8ae36128ded1
     name: myweatherhelm
@@ -283,7 +283,7 @@ entries:
     version: 1.3.21
   - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-22T00:52:54.783384571Z"
+    created: "2026-07-22T00:55:24.999012556Z"
     description: A Helm chart for Kubernetes
     digest: a931564621e7a0a811b00eac3d2cb8ad986b87c9ebe2e707162bf7f7b6b431a3
     name: myweatherhelm
@@ -293,7 +293,7 @@ entries:
     version: 1.3.20
   - apiVersion: v2
     appVersion: 1.3.16
-    created: "2026-07-22T00:52:54.783240148Z"
+    created: "2026-07-22T00:55:24.998744337Z"
     description: A Helm chart for Kubernetes
     digest: a0a4b671848ef9a6da08233a18f970051934bf424be0ade4f064945c65d6d662
     name: myweatherhelm
@@ -303,7 +303,7 @@ entries:
     version: 1.3.19
   - apiVersion: v2
     appVersion: 1.3.15
-    created: "2026-07-22T00:52:54.783073641Z"
+    created: "2026-07-22T00:55:24.998543913Z"
     description: A Helm chart for Kubernetes
     digest: 6d0a139c26d151f51e200cb74118e524055f101642672ed2802e08d9a29cf3a0
     name: myweatherhelm
@@ -313,7 +313,7 @@ entries:
     version: 1.3.18
   - apiVersion: v2
     appVersion: 1.3.15
-    created: "2026-07-22T00:52:54.782904384Z"
+    created: "2026-07-22T00:55:24.998362156Z"
     description: A Helm chart for Kubernetes
     digest: d8aaeb044f2dbc9f54baef652a4a385078c842ff5d73a1e8d675a1e7fc3c36b8
     name: myweatherhelm
@@ -323,7 +323,7 @@ entries:
     version: 1.3.17
   - apiVersion: v2
     appVersion: 1.3.14
-    created: "2026-07-22T00:52:54.782720752Z"
+    created: "2026-07-22T00:55:24.998037977Z"
     description: A Helm chart for Kubernetes
     digest: e6cb4174cb9c4f5fe9af66632b23278711946ea9ff1db90341998ba5dac022fa
     name: myweatherhelm
@@ -333,7 +333,7 @@ entries:
     version: 1.3.16
   - apiVersion: v2
     appVersion: 1.3.14
-    created: "2026-07-22T00:52:54.782556662Z"
+    created: "2026-07-22T00:55:24.997779467Z"
     description: A Helm chart for Kubernetes
     digest: e4f8fffb6dfd5ae0502866896c8af4702f61a4d130d3adf6d7b2b86b260ab60f
     name: myweatherhelm
@@ -343,8 +343,18 @@ entries:
     version: 1.3.15
   myweatherhelm-scheduling:
   - apiVersion: v2
+    appVersion: 1.3.32
+    created: "2026-07-22T00:55:25.008461502Z"
+    description: A Helm chart for Kubernetes
+    digest: 871ab319db79f61dbd427fb2e410466ba114b203824769cd0d96ed528d967180
+    name: myweatherhelm-scheduling
+    type: application
+    urls:
+    - myweatherhelm-scheduling-1.3.61.tgz
+    version: 1.3.61
+  - apiVersion: v2
     appVersion: 1.3.38
-    created: "2026-07-22T00:52:54.791034385Z"
+    created: "2026-07-22T00:55:25.008133531Z"
     description: A Helm chart for Kubernetes
     digest: d5d0354c8c3912eb18b20d403cf4f177dafb25e685fbb5121af48204ca486902
     name: myweatherhelm-scheduling
@@ -354,7 +364,7 @@ entries:
     version: 1.3.60
   - apiVersion: v2
     appVersion: 1.3.31
-    created: "2026-07-22T00:52:54.790889087Z"
+    created: "2026-07-22T00:55:25.007814602Z"
     description: A Helm chart for Kubernetes
     digest: 52c26e5f9c9e6ebe7c23e4b534b5e4d4b28b72c4f57728a06f256ce8bb7fdf6d
     name: myweatherhelm-scheduling
@@ -364,7 +374,7 @@ entries:
     version: 1.3.59
   - apiVersion: v2
     appVersion: 1.3.37
-    created: "2026-07-22T00:52:54.790737915Z"
+    created: "2026-07-22T00:55:25.007641554Z"
     description: A Helm chart for Kubernetes
     digest: 1b7f4a57406743f96421f439e84476dd0a087422d37763844231a39bb4402d22
     name: myweatherhelm-scheduling
@@ -374,7 +384,7 @@ entries:
     version: 1.3.58
   - apiVersion: v2
     appVersion: 1.3.30
-    created: "2026-07-22T00:52:54.790598867Z"
+    created: "2026-07-22T00:55:25.007461547Z"
     description: A Helm chart for Kubernetes
     digest: 3b9b0e808b04d3a43a9cca16fd3926dad7dd371378034a373da65ccbfe0994df
     name: myweatherhelm-scheduling
@@ -384,7 +394,7 @@ entries:
     version: 1.3.57
   - apiVersion: v2
     appVersion: 1.3.36
-    created: "2026-07-22T00:52:54.790451028Z"
+    created: "2026-07-22T00:55:25.007291374Z"
     description: A Helm chart for Kubernetes
     digest: 360787fa8e4a632ac4f2e69904caa2bc3b90cca150043c56cf17978558a97ebf
     name: myweatherhelm-scheduling
@@ -394,7 +404,7 @@ entries:
     version: 1.3.56
   - apiVersion: v2
     appVersion: 1.3.29
-    created: "2026-07-22T00:52:54.790102638Z"
+    created: "2026-07-22T00:55:25.007094075Z"
     description: A Helm chart for Kubernetes
     digest: 544ab76c9b26470e3946383cb877a01d59de51f60959a00cf3beaf42337cddeb
     name: myweatherhelm-scheduling
@@ -404,7 +414,7 @@ entries:
     version: 1.3.55
   - apiVersion: v2
     appVersion: 1.3.35
-    created: "2026-07-22T00:52:54.789803918Z"
+    created: "2026-07-22T00:55:25.006909609Z"
     description: A Helm chart for Kubernetes
     digest: 0483fd877e2d25c357e13b527498a3bf0d3cb497b9ad31bea440a2665cfe8bbe
     name: myweatherhelm-scheduling
@@ -414,7 +424,7 @@ entries:
     version: 1.3.54
   - apiVersion: v2
     appVersion: 1.3.28
-    created: "2026-07-22T00:52:54.789658995Z"
+    created: "2026-07-22T00:55:25.006756353Z"
     description: A Helm chart for Kubernetes
     digest: 8f781de8838d2af664ad4f80cad20fbbcc57f51779301a1a6ddc51757b92f727
     name: myweatherhelm-scheduling
@@ -424,7 +434,7 @@ entries:
     version: 1.3.53
   - apiVersion: v2
     appVersion: 1.3.34
-    created: "2026-07-22T00:52:54.789528948Z"
+    created: "2026-07-22T00:55:25.006608306Z"
     description: A Helm chart for Kubernetes
     digest: b93ee95e083ac93d0463272a89a82fdefd84feb12853d15626ec7e120c25bba5
     name: myweatherhelm-scheduling
@@ -434,7 +444,7 @@ entries:
     version: 1.3.52
   - apiVersion: v2
     appVersion: 1.3.27
-    created: "2026-07-22T00:52:54.789396318Z"
+    created: "2026-07-22T00:55:25.006419507Z"
     description: A Helm chart for Kubernetes
     digest: 6a11115c5e1965c74d5e4ee02534a2df848b198ef5e5e67162a97131c4a27be8
     name: myweatherhelm-scheduling
@@ -444,7 +454,7 @@ entries:
     version: 1.3.51
   - apiVersion: v2
     appVersion: 1.3.26
-    created: "2026-07-22T00:52:54.789271688Z"
+    created: "2026-07-22T00:55:25.006107495Z"
     description: A Helm chart for Kubernetes
     digest: 330516051c66c9256fc03c84a51772ecc6b93116ee24a5eb7aa205f178eeef9c
     name: myweatherhelm-scheduling
@@ -454,7 +464,7 @@ entries:
     version: 1.3.50
   - apiVersion: v2
     appVersion: 1.3.33
-    created: "2026-07-22T00:52:54.789146391Z"
+    created: "2026-07-22T00:55:25.005921613Z"
     description: A Helm chart for Kubernetes
     digest: 6604de04d55ad0de49dcee10a6a3b007ee2ec63238186924f30e227613ebbc77
     name: myweatherhelm-scheduling
@@ -464,7 +474,7 @@ entries:
     version: 1.3.49
   - apiVersion: v2
     appVersion: 1.3.32
-    created: "2026-07-22T00:52:54.789021344Z"
+    created: "2026-07-22T00:55:25.005764232Z"
     description: A Helm chart for Kubernetes
     digest: 6a79bfd9143fec8686ab2fb0b42f79a75d0801e310db6a7d6f95c7dde2500680
     name: myweatherhelm-scheduling
@@ -474,7 +484,7 @@ entries:
     version: 1.3.48
   - apiVersion: v2
     appVersion: 1.3.31
-    created: "2026-07-22T00:52:54.788891214Z"
+    created: "2026-07-22T00:55:25.00561806Z"
     description: A Helm chart for Kubernetes
     digest: 38af92f72131aac8db78694a3ff5c3ed0660760a1304cb30fd475d328c16b852
     name: myweatherhelm-scheduling
@@ -484,7 +494,7 @@ entries:
     version: 1.3.47
   - apiVersion: v2
     appVersion: 1.3.30
-    created: "2026-07-22T00:52:54.788723665Z"
+    created: "2026-07-22T00:55:25.005432136Z"
     description: A Helm chart for Kubernetes
     digest: ed179e15405934fa9ad6831a70cb44c130fedba79ac35fc8e7373840c1f557cc
     name: myweatherhelm-scheduling
@@ -492,4 +502,4 @@ entries:
     urls:
     - myweatherhelm-scheduling-1.3.46.tgz
     version: 1.3.46
-generated: "2026-07-22T00:52:54.782259525Z"
+generated: "2026-07-22T00:55:24.99747783Z"
